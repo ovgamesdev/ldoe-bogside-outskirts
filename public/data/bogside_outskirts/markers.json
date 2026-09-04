@@ -1,0 +1,1789 @@
+[
+    {
+        "x": 27576,
+        "y": 46912,
+        "text": "start",
+        "group": "start",
+        "angle": 25
+    },
+    {
+        "x": 16424,
+        "y": 36436,
+        "text": "start",
+        "group": "start",
+        "angle": 317
+    },
+    {
+        "x": 27274,
+        "y": 26748,
+        "text": "start",
+        "group": "start"
+    },
+    {
+        "x": 40160,
+        "y": 29986,
+        "text": "start",
+        "group": "start"
+    },
+    {
+        "x": 33554,
+        "y": 45423,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 33591,
+        "y": 44380,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 30686,
+        "y": 37578,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 36919,
+        "y": 35377,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 32779,
+        "y": 29752,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 29621,
+        "y": 25047,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 39441,
+        "y": 29047,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 24018,
+        "y": 33557,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 37656,
+        "y": 21237,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 45213,
+        "y": 21401,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 43966,
+        "y": 15725,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 39154,
+        "y": 16530,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 38372,
+        "y": 15185,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 26878,
+        "y": 23590,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 22715,
+        "y": 24177,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 22391,
+        "y": 23950,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 24256,
+        "y": 21390,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 24722,
+        "y": 20942,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 27024,
+        "y": 17922,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 38303,
+        "y": 29136,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 41681,
+        "y": 26337,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 38696,
+        "y": 26480,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 33282,
+        "y": 17460,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 28968,
+        "y": 12735,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 33817,
+        "y": 8112,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 21568,
+        "y": 19885,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 17710,
+        "y": 20612,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 18680,
+        "y": 29012,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 11787,
+        "y": 24449,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 14915,
+        "y": 31231,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 10365,
+        "y": 25722,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 13293,
+        "y": 20676,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 10476,
+        "y": 27444,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 5579,
+        "y": 33496,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 7570,
+        "y": 33694,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 12628,
+        "y": 36867,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 15543,
+        "y": 35280,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 15686,
+        "y": 28162,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 12680,
+        "y": 31716,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 13712,
+        "y": 30574,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 14464,
+        "y": 41399,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 16212,
+        "y": 41588,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 22079,
+        "y": 37304,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 20968,
+        "y": 31500,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 23133,
+        "y": 32174,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 22539,
+        "y": 28214,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 25418,
+        "y": 36546,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 24266,
+        "y": 37540,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 29590,
+        "y": 33353,
+        "text": "box",
+        "group": "box"
+    },
+    {
+        "x": 27600,
+        "y": 22806,
+        "text": "box",
+        "group": "box_winch",
+        "icon": "box"
+    },
+    {
+        "x": 35724,
+        "y": 26746,
+        "text": "box",
+        "group": "box_winch",
+        "icon": "box"
+    },
+    {
+        "x": 36142,
+        "y": 26730,
+        "text": "box",
+        "group": "box_winch",
+        "icon": "box"
+    },
+    {
+        "x": 37205,
+        "y": 27718,
+        "text": "box",
+        "group": "box_winch",
+        "icon": "box"
+    },
+    {
+        "x": 10734,
+        "y": 35070,
+        "text": "box",
+        "group": "box_winch",
+        "icon": "box"
+    },
+    {
+        "x": 16516,
+        "y": 32856,
+        "text": "box",
+        "group": "box_winch",
+        "icon": "box"
+    },
+    {
+        "x": 34204,
+        "y": 40534,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 33181,
+        "y": 33337,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 39517,
+        "y": 32441,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 31098,
+        "y": 27014,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 43211,
+        "y": 24494,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 28464,
+        "y": 35316,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 36571,
+        "y": 18915,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 42855,
+        "y": 19151,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 47307,
+        "y": 18452,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 24368,
+        "y": 28555,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 29393,
+        "y": 19347,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 40420,
+        "y": 22717,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 34242,
+        "y": 12708,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 24105,
+        "y": 17680,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 27178,
+        "y": 15135,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 29900,
+        "y": 7850,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 15038,
+        "y": 21608,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 17967,
+        "y": 22393,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 16722,
+        "y": 18638,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 21655,
+        "y": 26265,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 12582,
+        "y": 24308,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 9344,
+        "y": 22887,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 6981,
+        "y": 35969,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 10853,
+        "y": 40061,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 15505,
+        "y": 42641,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 16939,
+        "y": 39040,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 18131,
+        "y": 23199,
+        "text": "box_winch",
+        "group": "box_winch"
+    },
+    {
+        "x": 15203,
+        "y": 35774,
+        "text": "door_c4",
+        "group": "door_c4"
+    },
+    {
+        "x": 10280,
+        "y": 35616,
+        "text": "door_atv_winch",
+        "group": "door_atv_winch"
+    },
+    {
+        "x": 16087,
+        "y": 33288,
+        "text": "door_atv_winch",
+        "group": "door_atv_winch"
+    },
+    {
+        "x": 28031,
+        "y": 23443,
+        "text": "door_atv_winch",
+        "group": "door_atv_winch"
+    },
+    {
+        "x": 35568,
+        "y": 28708,
+        "text": "door_atv_winch",
+        "group": "door_atv_winch"
+    },
+    {
+        "x": 13036,
+        "y": 30203,
+        "text": "generator",
+        "group": "generator"
+    },
+    {
+        "x": 37730,
+        "y": 26630,
+        "text": "door_crowbar",
+        "group": "door_crowbar"
+    },
+    {
+        "x": 22793,
+        "y": 23460,
+        "text": "door_crowbar",
+        "group": "door_crowbar"
+    },
+    {
+        "x": 22940,
+        "y": 28609,
+        "text": "door_crowbar",
+        "group": "door_crowbar"
+    },
+    {
+        "x": 24839,
+        "y": 37793,
+        "text": "door_crowbar",
+        "group": "door_crowbar"
+    },
+    {
+        "x": 11008,
+        "y": 33760,
+        "text": "loc_gamma_drilling_rig",
+        "group": "location"
+    },
+    {
+        "x": 23872,
+        "y": 23424,
+        "text": "loc_beta_drilling_rig",
+        "group": "location"
+    },
+    {
+        "x": 36384,
+        "y": 27952,
+        "text": "loc_alpha_drilling_rig",
+        "group": "location"
+    },
+    {
+        "x": 33504,
+        "y": 43744,
+        "text": "loc_air_crash",
+        "group": "location"
+    },
+    {
+        "x": 38784,
+        "y": 14688,
+        "text": "loc_wrecked_cars",
+        "group": "location"
+    },
+    {
+        "x": 15616,
+        "y": 40400,
+        "text": "loc_tank",
+        "group": "location"
+    },
+    {
+        "x": 11936,
+        "y": 24416,
+        "text": "loc_trucks",
+        "group": "location"
+    },
+    {
+        "x": 22544,
+        "y": 30496,
+        "text": "loc_containers",
+        "group": "location"
+    },
+    {
+        "x": 31147,
+        "y": 38616,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 31511,
+        "y": 38200,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 33280,
+        "y": 36136,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 30408,
+        "y": 35060,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 31216,
+        "y": 33076,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 30680,
+        "y": 32908,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 30996,
+        "y": 32096,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 31340,
+        "y": 31856,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 30916,
+        "y": 30696,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 31104,
+        "y": 29732,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 31320,
+        "y": 30008,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 34574,
+        "y": 33720,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 35302,
+        "y": 33352,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 36174,
+        "y": 33280,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 36380,
+        "y": 31976,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 36592,
+        "y": 32292,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 34800,
+        "y": 32020,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 33384,
+        "y": 31792,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 33212,
+        "y": 32308,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 37056,
+        "y": 29692,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 35824,
+        "y": 29784,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 36024,
+        "y": 29004,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 36320,
+        "y": 28428,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 36528,
+        "y": 28556,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 37232,
+        "y": 28184,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 38192,
+        "y": 28124,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 37844,
+        "y": 27444,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 37544,
+        "y": 27252,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 36216,
+        "y": 27176,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 36640,
+        "y": 26352,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 34344,
+        "y": 27456,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 34248,
+        "y": 27068,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 33508,
+        "y": 26320,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 32500,
+        "y": 27308,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 32124,
+        "y": 26556,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 32472,
+        "y": 26608,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 29088,
+        "y": 25664,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 39840,
+        "y": 25136,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 41248,
+        "y": 21176,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 41120,
+        "y": 19208,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 40608,
+        "y": 17292,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 39788,
+        "y": 17124,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 39180,
+        "y": 17616,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 40164,
+        "y": 15952,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 40616,
+        "y": 15476,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 43500,
+        "y": 15776,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 46264,
+        "y": 13652,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 46464,
+        "y": 12240,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 45172,
+        "y": 13264,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 44840,
+        "y": 13280,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 43656,
+        "y": 13192,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 43968,
+        "y": 13228,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 41744,
+        "y": 12472,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 43568,
+        "y": 10388,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 43902,
+        "y": 10390,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 42272,
+        "y": 10428,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 41508,
+        "y": 9696,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 40424,
+        "y": 9980,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 40620,
+        "y": 9368,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 40696,
+        "y": 8580,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 35734,
+        "y": 7888,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 33608,
+        "y": 7412,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 33360,
+        "y": 9096,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 32592,
+        "y": 9052,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 31128,
+        "y": 9620,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 31388,
+        "y": 9660,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 31612,
+        "y": 10560,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 29612,
+        "y": 10940,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 33380,
+        "y": 13188,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 33756,
+        "y": 13936,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 34512,
+        "y": 14404,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 34496,
+        "y": 14752,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 36016,
+        "y": 18552,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 32988,
+        "y": 16632,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 32928,
+        "y": 15788,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 33248,
+        "y": 15796,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 32236,
+        "y": 18268,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 30588,
+        "y": 17376,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 29764,
+        "y": 18116,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 29440,
+        "y": 17868,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 28524,
+        "y": 18912,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 29108,
+        "y": 18352,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 28870,
+        "y": 18112,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 30844,
+        "y": 20800,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 29940,
+        "y": 21140,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 31204,
+        "y": 24072,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 32844,
+        "y": 23440,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 28356,
+        "y": 29000,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 23944,
+        "y": 29328,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 26400,
+        "y": 23336,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 27660,
+        "y": 22096,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 27788,
+        "y": 22344,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 23776,
+        "y": 22880,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 24448,
+        "y": 22204,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 24772,
+        "y": 22304,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 29308,
+        "y": 13468,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 27560,
+        "y": 13668,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 27944,
+        "y": 12840,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 27620,
+        "y": 12620,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 27528,
+        "y": 10940,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 28284,
+        "y": 9560,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 27356,
+        "y": 9816,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 26884,
+        "y": 9820,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 28980,
+        "y": 6164,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 29140,
+        "y": 6660,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 29872,
+        "y": 5916,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 30952,
+        "y": 6236,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 31364,
+        "y": 3632,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 27084,
+        "y": 4812,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 27624,
+        "y": 6504,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 25944,
+        "y": 7152,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 25276,
+        "y": 8392,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 25552,
+        "y": 8508,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 22404,
+        "y": 11068,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 22684,
+        "y": 11104,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 21916,
+        "y": 11580,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 22164,
+        "y": 11740,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 24484,
+        "y": 11396,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 24424,
+        "y": 11164,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 25268,
+        "y": 12108,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 25692,
+        "y": 11232,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 25844,
+        "y": 11584,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 23154,
+        "y": 12452,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 22658,
+        "y": 12914,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 23008,
+        "y": 13040,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 21476,
+        "y": 12848,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 21672,
+        "y": 13064,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 22372,
+        "y": 13668,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 22484,
+        "y": 15004,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 22020,
+        "y": 14868,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 21740,
+        "y": 15752,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 21568,
+        "y": 15436,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 20936,
+        "y": 16484,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 20344,
+        "y": 14212,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 13570,
+        "y": 14488,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 14266,
+        "y": 14968,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 13434,
+        "y": 15976,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 9712,
+        "y": 17816,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 8880,
+        "y": 18784,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 16724,
+        "y": 17304,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 20456,
+        "y": 19740,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 20776,
+        "y": 20608,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 21696,
+        "y": 20212,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 18952,
+        "y": 19804,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 18964,
+        "y": 20592,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 19272,
+        "y": 24224,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 16508,
+        "y": 23580,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 15380,
+        "y": 21920,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 14592,
+        "y": 22052,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 13600,
+        "y": 24140,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 14024,
+        "y": 23912,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 14388,
+        "y": 23964,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 12892,
+        "y": 22696,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 13212,
+        "y": 22536,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 13608,
+        "y": 22528,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 14032,
+        "y": 22932,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 13800,
+        "y": 23140,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 14012,
+        "y": 23420,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 11676,
+        "y": 23236,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 11728,
+        "y": 24024,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 9844,
+        "y": 22404,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 10392,
+        "y": 24960,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 10012,
+        "y": 25820,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 8840,
+        "y": 27668,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 8540,
+        "y": 28944,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 8940,
+        "y": 29476,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 8320,
+        "y": 30112,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 6768,
+        "y": 28760,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 5900,
+        "y": 29544,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 7752,
+        "y": 29400,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 7704,
+        "y": 30532,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 8312,
+        "y": 31640,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 9156,
+        "y": 30848,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 8964,
+        "y": 30596,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 11996,
+        "y": 33316,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 13332,
+        "y": 34676,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 14080,
+        "y": 34220,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 16672,
+        "y": 32576,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 18808,
+        "y": 31820,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 19164,
+        "y": 31896,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 19140,
+        "y": 33316,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 19300,
+        "y": 28100,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 18972,
+        "y": 29304,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 21824,
+        "y": 32256,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 21224,
+        "y": 33244,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 19480,
+        "y": 35504,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 18192,
+        "y": 37904,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 20812,
+        "y": 37996,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 20576,
+        "y": 37596,
+        "text": "ash_tree",
+        "group": "ash_tree"
+    },
+    {
+        "x": 15012,
+        "y": 36419,
+        "text": "barricade_atv_ram",
+        "group": "barricade_atv_ram",
+        "angle": 202
+    },
+    {
+        "x": 36908,
+        "y": 29613,
+        "text": "barricade_atv_ram",
+        "group": "barricade_atv_ram",
+        "angle": 302
+    },
+    {
+        "x": 16366,
+        "y": 34376,
+        "text": "barricade_atv_ram",
+        "group": "barricade_atv_ram",
+        "angle": 218
+    }
+]

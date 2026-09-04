@@ -1,0 +1,21 @@
+{
+  "name": "LDOE Окраина болот — Интерактивная карта",
+  "short_name": "LDOE Окраина болот",
+  "description": "Интерактивная карта локаций игры Last Day on Earth: Survival (LDOE) — Окраина болот: лут, боссы, зоны спавна и маршруты.",
+  "start_url": "/ldoe-bogside-outskirts/ru/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "/ldoe-bogside-outskirts/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/ldoe-bogside-outskirts/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

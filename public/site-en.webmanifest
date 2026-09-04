@@ -1,0 +1,21 @@
+{
+  "name": "LDOE Bogside outskirts — Interactive Map",
+  "short_name": "LDOE Bogside outskirts",
+  "description": "Interactive map for Last Day on Earth: Survival (LDOE). Track locations, loot, bosses, and zones across the Bogside outskirts.",
+  "start_url": "/ldoe-bogside-outskirts/en/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "/ldoe-bogside-outskirts/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/ldoe-bogside-outskirts/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
