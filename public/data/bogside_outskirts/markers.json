@@ -584,20 +584,20 @@
         "group": "door_crowbar"
     },
     {
-        "x": 11008,
-        "y": 33760,
+        "x": 13536,
+        "y": 33792,
         "text": "loc_gamma_drilling_rig",
         "group": "location"
     },
     {
-        "x": 23872,
-        "y": 23424,
+        "x": 25216,
+        "y": 22256,
         "text": "loc_beta_drilling_rig",
         "group": "location"
     },
     {
-        "x": 36384,
-        "y": 27952,
+        "x": 37920,
+        "y": 27840,
         "text": "loc_alpha_drilling_rig",
         "group": "location"
     },
@@ -608,26 +608,26 @@
         "group": "location"
     },
     {
-        "x": 38784,
-        "y": 14688,
+        "x": 38896,
+        "y": 14464,
         "text": "loc_wrecked_cars",
         "group": "location"
     },
     {
-        "x": 15616,
-        "y": 40400,
+        "x": 15632,
+        "y": 40672,
         "text": "loc_tank",
         "group": "location"
     },
     {
-        "x": 11936,
-        "y": 24416,
+        "x": 12240,
+        "y": 23600,
         "text": "loc_trucks",
         "group": "location"
     },
     {
-        "x": 22544,
-        "y": 30496,
+        "x": 22608,
+        "y": 30432,
         "text": "loc_containers",
         "group": "location"
     },

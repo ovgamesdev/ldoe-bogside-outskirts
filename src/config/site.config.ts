@@ -46,7 +46,7 @@ export const EXTERNAL_SITE_LINKS: { url: string; translationKey: TranslationKey 
 export const SITE_META = {
   ru: {
     title: 'LDOE Окраина болот — Интерактивная карта',
-    titleTemplate: '%s | LDOE Окраина болот',
+    titleTemplate: '%s',
     description:
       'Интерактивная карта локаций игры Last Day on Earth: Survival (LDOE) — Окраина болот. Лут, боссы, зоны спавна и маршруты.',
     siteName: 'LDOE Окраина болот',
@@ -56,7 +56,7 @@ export const SITE_META = {
   },
   en: {
     title: 'LDOE Bogside outskirts — Interactive Map',
-    titleTemplate: '%s | LDOE Bogside outskirts',
+    titleTemplate: '%s',
     description:
       'Interactive map for Last Day on Earth: Survival (LDOE). Track locations, loot, bosses, and zones across the Bogside outskirts.',
     siteName: 'LDOE Bogside outskirts',
